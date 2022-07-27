@@ -55,28 +55,6 @@
 
 <br/>
 
-
-<img align="left" alt="Rikitha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=reddyvaririkitha&show_icons=true&hide_border=true&theme=tokyonight" />
-
-
-[linkedin]: www.linkedin.com/in/reddyvari-rikitha-405670193
-
-
-## 📈 My GitHub Stats <img src="https://cdn.discordapp.com/emojis/778638806877732894.gif" width="25px">
-![](https://allhacked.com/up/2019/03/hello-world.gif)
-<img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=F77676&width=500&lines=This+is+my+GitHub+stats">
-
-
-<div align=center>
-          <img alt="gif" align="center" src="https://github.com/Wandrys-dev/Wandrys-dev/blob/main/git.gif" width=300 height=300/>
-    </div>
-
-<div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Wandrys+Nascimento+%F0%9F%91%8B;Mathematician+and+Statistician;Passionate+Data+Scientist;Matlab+language+Enthusiast" alt="Headline" />
-    </div>
-
-
-
 ### 🏆 Trophies
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=reddyvaririkitha&theme=onedark&column=5&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
@@ -165,3 +143,7 @@ me = DataScientist()
 </p>
 
 
+<img align="left" alt="Rikitha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=reddyvaririkitha&show_icons=true&hide_border=true&theme=tokyonight" />
+
+
+[linkedin]: www.linkedin.com/in/reddyvari-rikitha-405670193

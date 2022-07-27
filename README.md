@@ -64,7 +64,7 @@
 
 <table width="100%"> 
   <tr>
-    <td width="70%>
+    <td width="70%">
       <tr>
         <td>
           <img src="https://github-readme-stats.vercel.app/api?username=reddyvaririkitha&show_icons=true&hide_border=true&theme=tokyonight" alt="Rikitha's Github Stats"/>
@@ -79,32 +79,12 @@
         </td>
       </tr>
     </td>
-    <td width="30%>
+    <td width="30%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=reddyvaririkitha&amp;langs_count=8&amp;theme=tokyonight">
     </td>
   </tr>
 </table>
 
-
-
-
-
-
-
-
-<table width="100%"> 
-  <tr>
-    <td width="40%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Wandrys-dev&show_icons=true&theme=algolia">
-    </td>
-    <td width="30%">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Wandrys-dev&layout=compact&langs_count=8&theme=algolia">
-    </td>
-    <td width="30%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wandrys-dev&amp;langs_count=8&amp;theme=algolia">
-    </td>
-  </tr>
-</table>
 
 <br/>
 

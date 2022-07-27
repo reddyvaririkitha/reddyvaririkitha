@@ -65,12 +65,10 @@
 <table>
   <tr>
     <td>
-      ```<img align="left"  src="https://github-readme-stats.vercel.app/api?username=reddyvaririkitha&show_icons=true&hide_border=true&theme=tokyonight" />```
-
-      <img src="https://github-readme-stats.vercel.app/api?username=Wandrys-dev&hide_border=true&show_icons=true" alt="Rikitha's Github Stats" /> </a>
+      <img src="https://github-readme-stats.vercel.app/api?username=reddyvaririkitha&show_icons=true&hide_border=true&theme=tokyonight" />
     </td>
     <td>
-      <a href="https://github.com/Wandrys-dev/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wandrys-dev&hide_border=true&langs_count=8&layout=compact" alt="Top Languages" /> </a>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reddyvaririkitha&hide_border=true&layout=compact" alt="Top Languages" />
     </td>
   </tr>
   <tr>

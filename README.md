@@ -31,82 +31,6 @@
 <br />
 <br />
 
-
-<img align="left" alt="Coolchirutha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=reddyvaririkitha&show_icons=true&hide_border=true&theme=tokyonight" />
-
-
-[linkedin]: www.linkedin.com/in/reddyvari-rikitha-405670193
-
-
-
-
-<p align="center">
-  <img src="https://miraculoussoft.com/wp-content/themes/miraculous/images/mobapp.gif"
-    width="270" 
-    height="270">
-  <img src="https://github.com/itsdew/Live-in-Action/blob/main/Actions/techstack.gif">
-</p>
-<p align="center">
-   <img src="https://github.com/Wandrys-dev/Wandrys-dev/blob/main/C.gif">
-  <img src="https://github.com/Wandrys-dev/Wandrys-dev/blob/main//D.gif">
-</p>
-
-
-
-<h2>Hello World, I'm Wandrys! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-
-
-
-
- <a target="_blank"><img src="https://github.com/Wandrys-dev/Wandrys-dev/blob/main/MWG.gif" width="150"  /></a>  <a target="_blank"><img src="https://github.com/Wandrys-dev/Wandrys-dev/blob/main/MATLABWP.png" width="300"  /></a>  <a target="_blank"><img src="https://github.com/Wandrys-dev/Wandrys-dev/blob/main//giphy.gif" width="300"  /></a> 
- 
- 
- <<a target="_blank"><img src="https://github.com/Wandrys-dev/Wandrys-dev/blob/main/logo.png" width="300"  /></a>  <a target="_blank"><img src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" width="300"  /></a> 
- 
- 
-
-
-
-
-
-
-| <a href="https://asciinema.org/a/375762" target="_blank"><img src="no_control.svg" width="300" title="click to watch" /></a> | <a href="https://asciinema.org/a/375763" target="_blank"><img src="no_control_swingup.svg" width="300" title="click to watch" /></a> | <a href="https://asciinema.org/a/375764" target="_blank"><img src="controlled.svg" width="300" title="click to watch" /></a> |
-|:--:| :--: |:--: |
-| *No control* | *Swing-Up without Stabilization* |  *Swing-Up with Stabilization* |
-
-
-<!-- About me image -->
-<img src='https://github.com/Wandrys-dev/Wandrys-dev/blob/main/pointme.png' align='left' width='27%'>
-
-<h3> 👨🏻‍💻 &nbsp;About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
-
-
-- 🎓 I am a Accounting Sciences and Mathematics major and currently studying Statistics! 🐺
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 💼 &nbsp; Passionate Programmer, Matlab Developer, problem solving Skills and a Competitive Programmer.
-- 🌱 &nbsp; Learning more about Web Development, Database Management System, SQL and Familier with Data Science & ML.
-- ✍️ &nbsp; Participation on Different Levels Innovation Cell Projects, etc.
-- 📫 How to reach me: wandrys.sousa@protonmail.com ⚛️
-- ⚡ Fun fact: I love listening to music and playing the guitar! 🎸
-
-
-
-I love APIs, coffee, and the Oxford comma. I am a full stack mathematician working in Matlab and Python. I have excelled in various roles in the Software Development Life Cycle. I have always enjoyed seeing ideas come to life in my programs. I love to ship elegant code that solves real problems, and iterate based on real customer feedback. I want to write software that improves people's lives, and that supports our skills and enriches our relationships outside the virtual world.
-
-
-
-## Like My Work? : <a href="https://avatars.githubusercontent.com/u/44137944?v=4"><img align="left" width="150" height="150" src="https://avatars.githubusercontent.com/u/44137944?v=4"></a>
-
-<a href="https://www.buymeacoffee.com/Wandrys" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
-
-
-<img align="right" width="400" alt="GIF" src="https://blog.cloudlayer.io/content/images/2020/12/coding-freak.gif"/>
-
-
-
-
-
-
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
@@ -143,6 +67,16 @@ I love APIs, coffee, and the Oxford comma. I am a full stack mathematician worki
   ![PyCharm](https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=Pycharm-code&logoColor=007ACC)
 
 <br/>
+
+
+<img align="left" alt="Rikitha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=reddyvaririkitha&show_icons=true&hide_border=true&theme=tokyonight" />
+
+
+[linkedin]: www.linkedin.com/in/reddyvari-rikitha-405670193
+
+
+
+
 
 <img align="right" width="150" height="100" src="https://github.com/Wandrys-dev/Wandrys-dev/blob/main/kattoo.gif">
 

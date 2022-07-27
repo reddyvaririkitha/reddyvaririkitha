@@ -62,34 +62,29 @@
 
 ### 📊 Overall Stats
 
-<table width="100%"> 
+<table> 
   <tr>
-    <td width="70%">
-      <tr>
-        <td>
-          <img src="https://github-readme-stats.vercel.app/api?username=reddyvaririkitha&show_icons=true&hide_border=true&theme=tokyonight" alt="Rikitha's Github Stats"/>
-        </td>
-        <td>
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reddyvaririkitha&layout=compact&theme=tokyonight" alt="Top Languages" />
-        </td>
-      </tr>
-      <tr>
-        <td align="center">
-          <img src="http://github-readme-streak-stats.herokuapp.com?user=reddyvaririkitha&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="Rikitha's GitHub Readme Streak Stats" />
-        </td>
-      </tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=reddyvaririkitha&show_icons=true&hide_border=true&theme=tokyonight" alt="Rikitha's Github Stats"/>
     </td>
-    <td width="30%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=reddyvaririkitha&amp;langs_count=8&amp;theme=tokyonight">
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reddyvaririkitha&layout=compact&theme=tokyonight" alt="Top Languages" />
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="http://github-readme-streak-stats.herokuapp.com?user=reddyvaririkitha&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="Rikitha's GitHub Readme Streak Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=reddyvaririkitha&amp;langs_count=8&amp;theme=tokyonight">
+    </td>
 </table>
 
 
 <br/>
 
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=reddyvaririkitha&theme=react-dark)]
+![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=reddyvaririkitha&theme=material-palenight)
 
 
 

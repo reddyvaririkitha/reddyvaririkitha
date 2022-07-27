@@ -28,6 +28,7 @@
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
+<br />
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -57,23 +58,29 @@
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=reddyvaririkitha&row=1&theme=gitdimmed&column=5&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
 
+<br />
 
 ### 📊 Overall Stats
 
 <table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=reddyvaririkitha&show_icons=true&hide_border=true&theme=tokyonight" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reddyvaririkitha&layout=compact&theme=tokyonight" alt="Top Languages" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan=2 align="center">
-      <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=reddyvaririkitha&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="Rikitha's GitHub Readme Streak Stats" /> </a>
-    </td>
-  </tr>
+  <td width="70%>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=reddyvaririkitha&show_icons=true&hide_border=true&theme=tokyonight" alt="Rikitha's Github Stats"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reddyvaririkitha&layout=compact&theme=tokyonight" alt="Top Languages" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="http://github-readme-streak-stats.herokuapp.com?user=reddyvaririkitha&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="Rikitha's GitHub Readme Streak Stats" />
+      </td>
+    </tr>
+  </td>
+  <td width="30%>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=reddyvaririkitha&amp;langs_count=8&amp;theme=tokyonight">
+  </td>  
 </table>
 
 

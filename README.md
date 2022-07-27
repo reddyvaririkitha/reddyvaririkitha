@@ -79,7 +79,7 @@
 
 ### 🏆 Trophies
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=reddyvaririkitha&no-frame=true&no-bg=true&theme=onedark&column=5&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=reddyvaririkitha&theme=onedark&column=5&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ### 📊 Overall Stats

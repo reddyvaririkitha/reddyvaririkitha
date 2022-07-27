@@ -28,7 +28,6 @@
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-<br />
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -53,11 +52,10 @@
 - 🔧 &nbsp;
   ![PyCharm](https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=Pycharm-code&logoColor=007ACC)
 
-<br/>
 
 ### 🏆 Trophies
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=reddyvaririkitha&row=1&theme=tokyonight&column=5&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=reddyvaririkitha&row=1&theme=gitdimmed&column=5&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ### 📊 Overall Stats
@@ -73,7 +71,7 @@
   </tr>
   <tr>
     <td colspan=2 align="center">
-      <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=reddyvaririkitha&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Wandrys's GitHub Readme Streak Stats" /> </a>
+      <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=reddyvaririkitha&hide_border=true&background=f6f8fa&currStreakLabel=000000&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="Rikitha's GitHub Readme Streak Stats" /> </a>
     </td>
   </tr>
 </table>

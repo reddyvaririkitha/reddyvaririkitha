@@ -57,7 +57,7 @@
 
 ### 🏆 Trophies
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=reddyvaririkitha&theme=onedark&column=5&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=reddyvaririkitha&row=1&theme=onedark&column=5&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ### 📊 Overall Stats
@@ -65,7 +65,9 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/Wandrys-dev/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=Wandrys-dev&hide_border=true&show_icons=true" alt="Wandrys's GitHub Stats" /> </a>
+      ```<img align="left"  src="https://github-readme-stats.vercel.app/api?username=reddyvaririkitha&show_icons=true&hide_border=true&theme=tokyonight" />```
+
+      <img src="https://github-readme-stats.vercel.app/api?username=Wandrys-dev&hide_border=true&show_icons=true" alt="Rikitha's Github Stats" /> </a>
     </td>
     <td>
       <a href="https://github.com/Wandrys-dev/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wandrys-dev&hide_border=true&langs_count=8&layout=compact" alt="Top Languages" /> </a>
@@ -102,48 +104,8 @@
 <br/>
 
 
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=reddyvaririkitha&theme=react-dark)]
 
-class ComputerEngineer:
-    def __init__(self):
-        self.name    = "Wandrys Nascimento"
-        self.role    = "Data Scientist"
-        self.contact = "wandrys.sousa@protonmail.com"
-        self.work    = "Data Scientist, Software, Network Systems, Web Developer"
-        self.learn   = "Image Processing and Game Programming"
-    
-    def getCity():
-        return Brasilia_Brazil()
-
-me = DataScientist()
-```
-
-
-
-
-
-
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Wandrys-dev&theme=react-dark)](https://github.com/Wandrys-dev/github-readme-activity-graph)
-
-
-
-<p align="center"> 
-  Visitors :<br>
-  <img src="https://profile-counter.glitch.me/Wandrys-dev/count.svg" />
-</p>
-
-
-
-
-<p align="center">
-  <img src="https://github.com/Wandrys-dev/Wandrys-dev/blob/main/eesa.gif">
-</p>
-
-
-<img align="left" alt="Rikitha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=reddyvaririkitha&show_icons=true&hide_border=true&theme=tokyonight" />
 
 
 [linkedin]: www.linkedin.com/in/reddyvari-rikitha-405670193

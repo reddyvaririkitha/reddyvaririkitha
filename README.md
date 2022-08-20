@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## My name is Reddyvari Rikitha 🙂. 
-- 🤔 I am an ***incoming Imagineer*** at ***Fractal Analytics***. 
+- 🤔 I am an ***Imagineer*** at ***Fractal Analytics***. 
 - 👩🏻‍🎓 I am a final year undergraduate student of Indian Institute of Technology, Kharagpur - **IIT Kharagpur**.
 - 👷🏻‍♀️ I am a student from the Department of ***Civil Engineering*** enrolled in its B.Tech Course.
 - 📊 I am currently working on ***Data***.
